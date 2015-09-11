@@ -1,0 +1,1 @@
+This page has moved here : https://github.com/xebia-france/xebia-spring-security-extras/wiki/AuditedAnnotation

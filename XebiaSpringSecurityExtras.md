@@ -1,0 +1,1 @@
+This page has moved to https://github.com/xebia-france/xebia-spring-security-extras/
